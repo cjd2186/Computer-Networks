@@ -6,7 +6,7 @@ Created on Fri Mar 18 01:01:50 2022
 """
 
 LOGIC:
-This program follows the structure and logic as presented in the TCP Lite assignment,
+This program follows the structure and logic as presented in TCP Lite,
   implementing a simiplified version of TCP on top of UDP.
 
 Transfer Process:
