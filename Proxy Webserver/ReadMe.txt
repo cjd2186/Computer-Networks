@@ -1,5 +1,4 @@
 @author: cjd2186
-ReadMe: CSEE W4119 002 HW 2 HTTP Proxy Server
 @file: cjd2186_proxy.py
 
 ------------------------------------------------------------------------------
