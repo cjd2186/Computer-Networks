@@ -13,7 +13,7 @@ JSON files:
 
 
 LOGIC:
-In accordinance to the lab prompt, I modified the pd_7_router_net.py file
+I modified the pd_7_router_net.py file
   to have the network topology that was given in figure 5.3 of the James Kurose
     eighth edition textbook.
     RIP contains two mew functions to assign linkweights and implement poison reverse,
